@@ -28,3 +28,7 @@
 '''
 
 Hash - is unique commit identifier
+
+** To check git log**
+git log
+git log --oneline
