@@ -36,3 +36,8 @@ git log --oneline
 **HEAD**
 HEAD - is the last commit
 
+**There are the following file statuses**
+untracked
+tracked
+modified
+staged
